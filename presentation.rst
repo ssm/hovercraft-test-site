@@ -16,3 +16,10 @@ Second slide
 Some more text
 
 ----
+
+Last slide
+==========
+
+* foo
+
+* bar
