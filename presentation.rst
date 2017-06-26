@@ -1,6 +1,6 @@
 :data-transition-duration: 200
 
-.. title: A test presentation
+.. title:: A test presentation
 
 ----
 
