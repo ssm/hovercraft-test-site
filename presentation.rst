@@ -21,5 +21,4 @@ Last slide
 ==========
 
 * foo
-
 * bar
